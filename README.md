@@ -78,11 +78,15 @@
 
 <!-- ### Leandro Parente: "Boosting your geocomputation workflow using Pi coding agent" -->
 
-<!-- ### Jakub Nowosad: "Spatial visualization with tmap" -->
+### Jakub Nowosad: "Spatial visualization with tmap"
+
+- [Materials](https://jakubnowosad.com/ogh2026/docs/tmap.html)
 
 <!-- ### Serkan Girgin: "Benchmarking Geospatial Workflows with Geobench: A Hands-on Tutorial" -->
 
-<!-- ### Krzysztof Dyba: "Analysis of land surface temperature based on thermal satellite data" -->
+### Krzysztof Dyba: "Analysis of land surface temperature based on thermal satellite data"
+
+- [Materials](https://github.com/kadyb/ogh2026)
 
 ## 21 August 2026
 
