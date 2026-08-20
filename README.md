@@ -70,7 +70,9 @@
 
 ## 20 August 2026
 
-<!-- ### Andrés Zlinszky: "A new hope: Breaking the barriers of earth observation with open data, open processing capacity, open code and AI" -->
+### Andrés Zlinszky: "A new hope: Breaking the barriers of earth observation with open data, open processing capacity, open code and AI"
+
+- [Materials](https://github.com/azlinszkysinergise/opengeohub_summer_school/blob/main/zlinszky_2026_opengeohub_a_new_hope_template_comp.pptx)
 
 <!-- ### Adam Stewart: "All models are NOT created equal: Evaluation of model performance" -->
 
