@@ -94,7 +94,9 @@
 
 <!-- ### Mehmet Furkan Celik: "Deep Learning Guided Crop Boundary Delineation from Multimodal Satellite Images" -->
 
-<!-- ### Yu-Feng Ho: "Derive and Apply Multiscale Terrain Variables in Environmental Research" -->
+### Yu-Feng Ho: "Derive and Apply Multiscale Terrain Variables in Environmental Research"
+
+- [Materials](https://codeberg.org/yu-feng-ho/OGH26)
 
 <!-- ### Andrés Zlinszky: "How to become an EO coder using AI: Sentinel Hub custom scripts and CDSE Jupyter Lab" -->
 
