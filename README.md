@@ -76,7 +76,9 @@
 
 <!-- ### Adam Stewart: "All models are NOT created equal: Evaluation of model performance" -->
 
-<!-- ### Leandro Parente: "Boosting your geocomputation workflow using Pi coding agent" -->
+### Leandro Parente: "Boosting your geocomputation workflow using Pi coding agent"
+
+- [Materials](https://codeberg.org/leandro-parente/pi-ogh-summer-school-2026)
 
 ### Jakub Nowosad: "Spatial visualization with tmap"
 
