@@ -104,7 +104,9 @@
 
 - [Materials](https://artifactory.vgt.vito.be/artifactory/auxdata-public/marketplace/cdse/openEO_OpenGeoHub.zip)
 
-<!-- ### Mehmet Furkan Celik: "Deep Learning Guided Crop Boundary Delineation from Multimodal Satellite Images" -->
+### Mehmet Furkan Celik: "Deep Learning Guided Crop Boundary Delineation from Multimodal Satellite Images"
+
+- [Materials](https://docs.google.com/presentation/d/1E88XNHBuX72kIfaT0xoUvf2xd0Pfi0_UOYxsyBWi4AE/edit?slide=id.p1#slide=id.p1)
 
 ### Yu-Feng Ho: "Derive and Apply Multiscale Terrain Variables in Environmental Research"
 
