@@ -36,7 +36,9 @@
 
 - [Materials](https://github.com/kadyb/ogh2026)
 
-<!-- ### Ondrej Pesek: "GRASS as a GIS" -->
+### Ondřej Pešek: "GRASS - Geographic Resources Analysis Support System"
+
+- [Materials](https://github.com/pesekon2/ogh_summerschool_2026_grass/)
 
 <!-- ### Esra Erten: "Seeing the Earth in Microwaves: SAR Physics, Operational Missions, and the Road Ahead" -->
 
