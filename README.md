@@ -100,7 +100,9 @@
 
 - [Materials](https://github.com/azlinszkysinergise/opengeohub_summer_school/blob/main/CDSE_datasets_overview.md)
 
-<!-- ### Pratichhya Sharma: "Pixels to Patterns: ML Data Preparation using openEO in Copernicus Data Space Ecosystem" -->
+### Pratichhya Sharma: "Pixels to Patterns: ML Data Preparation using openEO in Copernicus Data Space Ecosystem"
+
+- [Materials](https://artifactory.vgt.vito.be/artifactory/auxdata-public/marketplace/cdse/openEO_OpenGeoHub.zip)
 
 <!-- ### Mehmet Furkan Celik: "Deep Learning Guided Crop Boundary Delineation from Multimodal Satellite Images" -->
 
