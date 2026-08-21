@@ -112,6 +112,8 @@
 
 - [Materials](https://codeberg.org/yu-feng-ho/OGH26)
 
-<!-- ### Andrés Zlinszky: "How to become an EO coder using AI: Sentinel Hub custom scripts and CDSE Jupyter Lab" -->
+### Andrés Zlinszky: "How to become an EO coder using AI: Sentinel Hub custom scripts and CDSE Jupyter Lab"
+
+- [Materials](https://github.com/azlinszkysinergise/opengeohub_summer_school/blob/main/AI_coding_in_CDSE_template.pdf)
 
 <!-- ### 3mins pitchs, closing remarks and announcement of hackathon winners -->
