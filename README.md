@@ -96,7 +96,9 @@
 
 <!-- ### Adam Stewart: "Preprocessing with GDAL: A gentle introduction to the command line" -->
 
-<!-- ### Andrés Zlinszky: "Open satellite imagery and environmental datasets in Copernicus Browser" -->
+### Andrés Zlinszky: "Open satellite imagery and environmental datasets in Copernicus Browser"
+
+- [Materials](https://github.com/azlinszkysinergise/opengeohub_summer_school/blob/main/CDSE_datasets_overview.md)
 
 <!-- ### Pratichhya Sharma: "Pixels to Patterns: ML Data Preparation using openEO in Copernicus Data Space Ecosystem" -->
 
